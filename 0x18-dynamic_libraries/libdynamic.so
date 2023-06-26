@@ -3,7 +3,11 @@
 
 int main(void)
 {
+<<<<<<< HEAD
+    print("%d\n", _strlen("My Dyn Lib"));
+=======
     print("%d\n", _strlen("My Dyn Lib")):
+>>>>>>> dbbc4a0558fb45468f5ea6e9f13aae213823d87d
     return 0;
 }
 
